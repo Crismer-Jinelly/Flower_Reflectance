@@ -1,0 +1,15 @@
+Cris es la mejor
+
+Atajos para git
+
+git status
+[que archivos nuevos hay]
+
+git add. 
+[agregar los archivos a la cola]
+
+git commit -m "voy a hacer un cambio"
+[actualizar la cola y especificar que se está haciendo]
+
+git push
+[empujar los cambios para que se actualicen en github]
